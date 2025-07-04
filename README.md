@@ -1,21 +1,8 @@
 
-```markdown
 # 📜 Persian Poets GPT-2 Fine-Tuning Experiments
 
 This project contains my initial experiments fine-tuning **GPT-2** on Persian classical poetry, aiming to create a mini language model that mimics the style of famous poets like Ferdowsi, Saadi, and Hafez.
 
----
-
-## 📁 Project Structure
-
-```
-
-persian\_poets\_llms/
-├── experiments.ipynb       # Single notebook documenting fine-tuning and generation experiments
-├── datasets/               # Text files with poetry data and training samples
-└── results/                # Text files showing generated poetry outputs
-
-````
 
 ---
 
@@ -38,9 +25,6 @@ pip install transformers datasets jupyter torch
 
 ### 2. Open Notebook
 
-```bash
-jupyter notebook experiments.ipynb
-```
 
 ### 3. Run and Modify
 
@@ -55,14 +39,6 @@ jupyter notebook experiments.ipynb
 * Experiment with small-scale fine-tuning of GPT-2
 * Explore cultural language models in NLP
 
----
-
-## 🧪 Results
-
-* Generated poetic text samples stored in the `results/` folder
-* Some quality issues expected due to dataset size and training constraints
-
----
 
 ## 📜 License
 
