@@ -51,7 +51,4 @@ MIT License — use and adapt as you wish.
 Created by [Pouya Soltani](https://github.com/pouyasolltani81)
 Feedback and collaboration welcome!
 
-```
 
-If you want, I can help you create this as a file here or help you push it to GitHub!
-```
